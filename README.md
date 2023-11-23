@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Vinicius Andriato Manini and I'm 22 years old, speaking from Brazil/São Paulo.
+- 👀 I’m interested in discovering new things about Python, searching for a personal upgrade.
+- 🌱 I’m currently learning Python and at the moment i'm studying Data Science.
+- 💞️ I’m looking to collaborate in the future with some projects or learns.
+- 📫 For any furthuer contact, can reach me by e-mail('viniamanini@gmail.com') or by instagram ('_viniciusmanini').
